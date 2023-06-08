@@ -7,3 +7,4 @@ Kompleks projeleri indirmek istediğinizde uygulamaya ait tüm dosyaları yükle
 projenin çalışması açısından önemli olacaktır.
 Proje kodları içerisinde gerekli açıklamalar yapılmıştır.
 Projenin amacı ve hededi kod dosyası içerisinde yer almaktadır.
+Projelerde dosya yolunun uygun şekilde değiştirilmesi gerektiğini unutmayın.
