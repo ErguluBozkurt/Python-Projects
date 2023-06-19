@@ -2,7 +2,7 @@
 ## Amaç
 Kendini python ile geliştirmek isteyen kişilere örnek olması amacı hedef alınmıştır. Ayrıca paylaşılan 
 basit projelerin yanında zor projelerde yeni fikirler kazındırma komusunda sizlere yardımcı olacaktır.
-## Önemli Notlar
+## Önemli Açıklamalar
 Paylaştığım python projeleri python 3.11 ile uyumlu olarak çalışmaktadır. Buradan indirebilirsiniz
 [Python 3.11](https://www.python.org/downloads/).
 Projeleri çalıştırmadan önce gerekli kütüphaneleri indirmeniz gerekir. Tüm kütüphaneleri buradan indirebilirsiniz
