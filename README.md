@@ -1,6 +1,11 @@
 # Python Projeleri
-Paylaştığım python projeleri python 3.11 ile uyumlu olarak çalışmaktadır.
-Projeleri çalıştırmadan önce gerekli kütüphaneleri indirmeniz gerekir.
+## Amaç
+Kendini geliştirmek isteyen kişilere örnek ve yeni fikir olması amacı hedef alınmıştır.
+## Önemli Notlar
+Paylaştığım python projeleri python 3.11 ile uyumlu olarak çalışmaktadır. Buradan indirebilirsiniz
+[Python 3.11](https://www.python.org/downloads/).
+Projeleri çalıştırmadan önce gerekli kütüphaneleri indirmeniz gerekir. Tüm kütüphaneleri buradan indirebilirsiniz
+[Python Kütüphaneleri](https://pypi.org/).
 Projeleri kendi içinde iki kısma ayırdım. Basit ve zor.
 Python öğrenmeye yeni başlayanlar basit örneklerden yardım alabilirler.
 Bazı kompleks projeler kendine ait klasör içerisinde yer almaktadır.
