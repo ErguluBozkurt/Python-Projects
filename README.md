@@ -1,3 +1,4 @@
+# Python Projeleri
 Paylaştığım python projeleri python 3.11 ile uyumlu olarak çalışmaktadır.
 Projeleri çalıştırmadan önce gerekli kütüphaneleri indirmeniz gerekir.
 Projeleri kendi içinde iki kısma ayırdım. Basit ve zor.
